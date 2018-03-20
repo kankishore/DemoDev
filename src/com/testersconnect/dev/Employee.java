@@ -8,6 +8,7 @@ public class Employee {
 		String eName=null;
 		eName="John";
 		eName="Smith";
+		eName="Jack";
 		return eName;
 	}
 	
