@@ -9,7 +9,7 @@ public class Employee {
 		eName="John";
 		eName="Smith";
 		eName="Jack";
-		eName="Jane";
+		
 		return eName;
 	}
 	
